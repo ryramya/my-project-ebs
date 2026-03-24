@@ -4,4 +4,4 @@ cron:
     url: "/scheduled"
     schedule: "* * * * *"
     hii
-    hello
+    welcome
